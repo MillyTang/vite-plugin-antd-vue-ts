@@ -1,6 +1,7 @@
 # vite-plugin-antd-vue-ts
 
 > 与另一个项目的区别，这是ts版本+使用es6模块写的，兼容cjs模块
+> 注意：本项目未完全完成，主要是打包后还需要手动删除temp文件夹，这块可自行优化
 
 ts版本的：commonjs模块方式：转换 ant-design-vue UI 框架里的moment为dayjs
 
